@@ -4,6 +4,4 @@
 
 for decrypt .3ds file
 
-## TODO 
-
-*  update to py3 
+Updated for Python3.
