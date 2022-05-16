@@ -4,4 +4,6 @@
 
 for decrypt .3ds file
 
-Updated for Python3.
+Updated for Python 3.
+
+Source code was formatted with [Black](https://github.com/psf/black).
